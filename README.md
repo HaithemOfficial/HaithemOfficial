@@ -11,6 +11,7 @@
 ---
 
 ### :hammer_and_wrench: Skills:
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 <div>
   [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
   </br>
