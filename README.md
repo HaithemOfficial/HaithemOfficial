@@ -11,7 +11,9 @@
 ---
 
 ### :hammer_and_wrench: Skills:
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,html,css,sass)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts)](#)
+[![My Skills](https://skillicons.dev/icons?i=react,redux,html,css,sass)](#)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass)](#)
 <div>
   </br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="30" height="30"/>&nbsp;
