@@ -6,7 +6,7 @@
 
 ## 👋 Hi, I’m Haithem Bensalem
 - 👀 I’m a Front-End Developer based in Vilnius, Lithuania. </br>
-- 🌱 I’m currently learning more about algorithms and data structures and building beautiful front-end projects </br>
+- 🌱 I’m currently building beautiful web applications and learning more about algorithms and data structures</br>
 - 📫 Email: HaithemOfficial@gmail.com </br>
 
 ---
