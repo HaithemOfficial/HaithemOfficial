@@ -12,7 +12,7 @@
 
 ### :hammer_and_wrench: Skills:
 <div>
-  [![My Skills](https://skillicons.dev/icons?i=ts,js,react,redux,html,css,)](#)
+  [![My Skills](https://skillicons.dev/icons?i=ts,js,react,redux,html,css,sass)](#)
   </br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="30" height="30"/>&nbsp;
