@@ -34,8 +34,6 @@
 
 ---
 
-<br />
-
 ### Contact:
 
 <div id="badges">
