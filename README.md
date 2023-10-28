@@ -3,9 +3,9 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-## 👋 Hi, I’m @Haithem Bensalem
+## 👋 Hi, I’m Haithem Bensalem
 - 👀 I’m a Front-End Developer based in Vilnius, Lithuania. 
-- 🌱 I’m currently learning more about algorithms and data structures
+- 🌱 I’m currently learning more about algorithms and data structures and building a beautiful front-end projects
 - 📫 Email: HaithemOfficial@gmail.com
   
 <div id="badges">
