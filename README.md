@@ -1,15 +1,21 @@
 <div id="header">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+
 </br></br>
+
 ## 👋 Hi, I’m Haithem Bensalem
 - 👀 I’m a Front-End Developer based in Vilnius, Lithuania. </br>
 - 🌱 I’m currently learning more about algorithms and data structures and building beautiful front-end projects </br>
 - 📫 Email: HaithemOfficial@gmail.com </br>
+
+
 </br>
 ---
-</br>
+
+</br></br>
 ### :hammer_and_wrench: Skills:
+
 [![My Skills](https://skillicons.dev/icons?i=js,ts)](#)&nbsp;&nbsp;&nbsp;
 [![My Skills](https://skillicons.dev/icons?i=react,redux)](#)&nbsp;&nbsp;&nbsp;
 [![My Skills](https://skillicons.dev/icons?i=html,css)](#)&nbsp;&nbsp;&nbsp;
