@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<h2> 👋 Hi, I’m @Haithem Bensalem </h2>
+## 👋 Hi, I’m @Haithem Bensalem
 - 👀 I’m a Front-End Developer based in Vilnius, Lithuania. 
 - 🌱 I’m currently learning more about algorithms and data structures
 - 📫 Email: HaithemOfficial@gmail.com
@@ -17,7 +17,9 @@
   </a>
 </div>
 
-Skills:
+---
+
+### :hammer_and_wrench: Skills:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
