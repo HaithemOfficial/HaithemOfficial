@@ -1,14 +1,14 @@
 <div id="header">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-
+</br></br>
 ## 👋 Hi, I’m Haithem Bensalem
 - 👀 I’m a Front-End Developer based in Vilnius, Lithuania. </br>
 - 🌱 I’m currently learning more about algorithms and data structures and building beautiful front-end projects </br>
 - 📫 Email: HaithemOfficial@gmail.com </br>
-
+</br>
 ---
-
+</br>
 ### :hammer_and_wrench: Skills:
 [![My Skills](https://skillicons.dev/icons?i=js,ts)](#)&nbsp;&nbsp;&nbsp;
 [![My Skills](https://skillicons.dev/icons?i=react,redux)](#)&nbsp;&nbsp;&nbsp;
@@ -21,9 +21,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="30" height="30"/>
 </div>
-
+</br>
 ---
-
+</br>
 ### Contact:
 <div id="badges">
   <a href="https://www.linkedin.com/in/haithem-bensalem-193a4515a/">
