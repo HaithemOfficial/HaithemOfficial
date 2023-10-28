@@ -4,9 +4,9 @@
 </div>
 
 ## 👋 Hi, I’m Haithem Bensalem
-- 👀 I’m a Front-End Developer based in Vilnius, Lithuania. 
-- 🌱 I’m currently learning more about algorithms and data structures and building a beautiful front-end projects
-- 📫 Email: HaithemOfficial@gmail.com
+👀 I’m a Front-End Developer based in Vilnius, Lithuania. 
+🌱 I’m currently learning more about algorithms and data structures and building a beautiful front-end projects
+📫 Email: HaithemOfficial@gmail.com
   
 <div id="badges">
   <a href="https://www.linkedin.com/in/haithem-bensalem-193a4515a/">
