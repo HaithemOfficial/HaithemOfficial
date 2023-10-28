@@ -9,11 +9,7 @@
 - 🌱 I’m currently learning more about algorithms and data structures and building beautiful front-end projects </br>
 - 📫 Email: HaithemOfficial@gmail.com </br>
 
-<br />
-
 ---
-
-<br />
 
 ### :hammer_and_wrench: Skills:
 
@@ -28,9 +24,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="30" height="30"/>
 </div>
-
-
-<br />
 
 ---
 
