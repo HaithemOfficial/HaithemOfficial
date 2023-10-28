@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning more about algorithms and data structures
 - 📫 How to reach me:
   -  Email   : HaithemOfficial@gmail.com
-  -  LinkedIn: (@Haithem)[https://www.linkedin.com/in/haithem-bensalem-193a4515a/]
+  -  LinkedIn: [@Haithem](https://www.linkedin.com/in/haithem-bensalem-193a4515a/)
 
 <!---
 HaithemOfficial/HaithemOfficial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
