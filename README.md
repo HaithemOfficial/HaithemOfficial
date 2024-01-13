@@ -5,7 +5,7 @@
 </br>
 
 ## 👋 Hi, I’m Haithem Bensalem
-- 👀 I’m a Front-End Developer based in Vilnius, Lithuania. </br>
+- 👀 I’m a Front-End Developer and Bug Bounty Hunter based in Vilnius, Lithuania. (I know it is wired 😃) </br>
 - 🌱 I’m currently building beautiful web applications and learning more about algorithms and data structures</br>
 - 📫 I'm a Software Engineering student </br>
 - 📫 Email: HaithemOfficial@gmail.com </br>
