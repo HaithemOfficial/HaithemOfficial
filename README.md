@@ -6,9 +6,9 @@
 
 ## 👋 Hi, I’m Haithem Bensalem
  - 🔒 Cybersecurity enthusiast and Security+ certified. Engaged in both offensive and defensive security practices, honing skills through CTFs, certifications, and projects/labs.
- - 🐛 Bug Hunter**:** Identified vulnerabilities for AT&T, Telenet, and OpenSea. Formerly top-ranked on Telenet's leaderboard. Ranked in the top 1000 on intigriti.
- - 🛠️ Tools**:** Developed Phishing Attacks Smart Detector, subdomain finder, and Web cache poisoning vulnerability scanner using Python.
- - 📧 Email**:** HaithemOfficial@gmail.com
+ - 🐛 Bug Hunter **:** Identified vulnerabilities for AT&T, Telenet, and OpenSea. Formerly top-ranked on Telenet's leaderboard. Ranked in the top 1000 on intigriti.
+ - 🛠️ Tools **:** Developed Phishing Attacks Smart Detector, subdomain finder, and Web cache poisoning vulnerability scanner using Python.
+ - 📧 Email **:** HaithemOfficial@gmail.com
 
 
 ---
