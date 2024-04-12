@@ -5,25 +5,11 @@
 </br>
 
 ## 👋 Hi, I’m Haithem Bensalem
-- 👀 I’m a Web Developer and Bug Bounty Hunter based in Vilnius, Lithuania. 😃</br>
-- 🌱 I’m currently building beautiful web applications and learning more about algorithms and data structures</br>
-- 📫 I'm a Software Engineering student </br>
-- 📫 Email: HaithemOfficial@gmail.com </br>
+ - 🔒 Cybersecurity enthusiast and Security+ certified. Engaged in both offensive and defensive security practices, honing skills through CTFs, certifications, and projects/labs.
+ - 🐛 Bug Hunter**:** Identified vulnerabilities for AT&T, Telenet, and OpenSea. Formerly top-ranked on Telenet's leaderboard. Ranked in the top 1000 on intigriti.
+ - 🛠️ Tools**:** Developed Phishing Attacks Smart Detector, subdomain finder, and Web cache poisoning vulnerability scanner using Python.
+ - 📧 Email**:** HaithemOfficial@gmail.com
 
----
-
-### :hammer_and_wrench: Skills:
-
-[![My Skills](https://skillicons.dev/icons?i=js,ts)](#)&nbsp;&nbsp;&nbsp;
-[![My Skills](https://skillicons.dev/icons?i=react,redux)](#)&nbsp;&nbsp;&nbsp;
-[![My Skills](https://skillicons.dev/icons?i=html,css)](#)&nbsp;&nbsp;&nbsp;
-[![My Skills](https://skillicons.dev/icons?i=sass,figma)](#)
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
 
 ---
 
