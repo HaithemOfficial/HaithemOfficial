@@ -9,6 +9,7 @@
  - 🐛 Bug Hunter **:** Identified vulnerabilities for AT&T, Telenet, and OpenSea. Formerly top-ranked on Telenet's leaderboard. Ranked in the top 1000 on intigriti.
  - 🛠️ Tools **:** Developed Phishing Attacks Smart Detector, subdomain finder, and Web cache poisoning vulnerability scanner using Python.
  - 📧 Email **:** HaithemOfficial@gmail.com
+ - Intigriti (Europe’s leading bug bounty platform and penetration testing services provider) **:** https://intigriti.com/profile/haybensec
 
 
 ---
